@@ -1,3 +1,6 @@
-# Kozel Maksim
+# My name: Kozel Maksim
 
-## kozelmaksum12345@gmail.com
+### Contact Information
+    - Email: kozelmaksum12345@gmail.com
+    - Discord: on_samai
+    - GitHub: Maks122525
